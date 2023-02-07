@@ -1,0 +1,1 @@
+# An attempt at the [algonouts](http://algonauts.csail.mit.edu/) challenge
